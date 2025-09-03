@@ -8,6 +8,7 @@ This quest focuses on the process of saving conversation data. When a conversati
 * Summarize and Extract Keywords: The script should automatically capture the key content of the current conversation. You can choose to use the AI to generate a concise summary or have the script automatically extract keywords.
 * Vectorize the Document (Embedding): The script will use an embedding model, such as Sentence-Transformers or OpenAI Embeddings API, to convert the summary text into a high-dimensional vector that represents its meaning.
 * Store in a Vector Database: The generated vector, along with the original summary text, topic tags, and timestamps, will be saved into a vector database like ChromaDB or Pinecone
+** [**_https://github.com/AllanccWang/AI_Co-creation_Solo-Leveling-Era/blob/35325ef5760fd35cb8d754ea0351939749e13aa2/Quest-2_AI_External_Memory_System/extract_from_DB_with_keys.py_**]
 ## Side Quest 2: Information Extraction
 This quest is about retrieving information from the stored data. When you want to continue an old topic, the script will execute the following tasks:
 * User Input: You will provide the script with a few keywords or a sentence describing the old topic you are looking for.
