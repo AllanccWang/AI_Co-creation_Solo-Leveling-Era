@@ -3,3 +3,6 @@ The primary goal of this quest is to develop and implement a strategy that optim
 ## Method 1: Machine Learning - Hyperparameter Optimization:
 Approach: While direct pulse-level tuning isn't the primary focus, explore optimizing circuit-level parameters. Employ machine learning or optimization algorithms to discover an optimal sequence of Rx gate angles.
 **Advanced Consideration: Investigate the insertion of additional gates for dynamic decoupling between Rx gates to enhance noise resistance.**
+## Method 2: Machine Learning - Data Analysis & Predictive Modeling:
+Approach: Analyze the data collected from Side Quest 2 using machine learning models.
+**Objective: Develop a predictive model that learns the specific noise patterns of FakePerth to forecast how noise impacts measurement outcomes at different rotation angles. This will deepen your understanding of the noise's fundamental sources.**
