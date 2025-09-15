@@ -2,9 +2,9 @@
 To design, develop, and present a highly articulated, visually striking, and functionally modular mecha model unit (Code: AZRA-01) based on provided artistic concept sketches. 
 This unit will serve as the flagship "High-Mobility Warrior Mecha" basic unit for future company assembly models.
 
-
 **_artistic concept sketches_**
-<img align="justify" src="hand-drawn_flame_mecha_warrior_AZRA-01.png" alt="artistic_concept_sketches" style="width:70%">
+
+<img align="justify" src="hand-drawn_flame_mecha_warrior_AZRA-01.png" alt="artistic_concept_sketches" style="width:50%">
 
 ## Side Quest 1: "Core Chassis Blueprint" - Basic Unit Design
 Objective: To establish the foundational aesthetic and structural elements of the AZRA-01's core body, ensuring both mobility and visual appeal.
