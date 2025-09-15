@@ -26,3 +26,7 @@ Objective: To professionally pose the completed AZRA-01 model and capture two of
 * Posing Style Definition: Establish dynamic combat poses for the model.
 * Photography Setup: Prepare a studio lighting environment with a gray background.
 * Official Photo Capture (x2): Act as the model photographer and capture two compelling official display images
+## Gallery
+| Photo_Capture_1 | Photo_Capture_2 | Parts |
+| ---- | ---- | ---- |
+| <img align="justify" src="action_figure_AZRA-01_posing_01.png" alt="AZRA-01_posing_01" style="width:30%"> | <img align="justify" src="action_figure_AZRA-01_posing_02.png" alt="AZRA-01_posing_02" style="width:30%"> | <img align="justify" src="Replacing_Parts_AZRA-01.png" alt="Parts_AZRA-01" style="width:30%"> |
