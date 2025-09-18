@@ -6,6 +6,10 @@ Your objective is to explore the potential of using a quantum circuit to enhance
 - **Objective**: Use your **Quantum Computing Application** and **Quantum Machine Learning** skills to develop a hybrid quantum-classical model.
 - **The Problem**: A basic machine learning model is struggling with a complex classification task. You believe a quantum layer can help.
 - **Mission**: Design a simple quantum circuit (using Qiskit) that acts as a "quantum feature map." This circuit will process the input data and then feed its output to a classical neural network for final classification. The goal is to use the unique properties of quantum states to improve the model's accuracy.
+- Notes: Unable to complete this quest on my own, I turned to generative AI for assistance. Below are straightforward approaches to bring the project to life.
+  
+Advice: A Simple Quantum-Classical PoC
+- The key is to start small. Don't aim to solve a massive problem; aim to prove that you can successfully **bridge the quantum and classical worlds**.
 ## Side Quests
 - **Side Quest: Code Integration**
 
