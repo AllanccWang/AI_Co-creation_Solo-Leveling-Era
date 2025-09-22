@@ -15,3 +15,5 @@ a critical first step in a larger project to integrate sensors with your LEGO Po
 * Side Quest 4: Packet Interception
     - **Objective:** Propose a method to intercept the communication between the original mobile app and the CB10. This is a classic Information Retrieval quest.
     - **Task:** Propose using a BLE Sniffer tool, such as an nRF52840, in combination with a tool like Wireshark, to capture the packets.
+# Strategic Evaluation
+- Weigh the time and effort required for the decoding against the project's ultimate purpose to determine if this is the most effective path forward. This quest highlights your ability to pivot and make strategic decisions.
