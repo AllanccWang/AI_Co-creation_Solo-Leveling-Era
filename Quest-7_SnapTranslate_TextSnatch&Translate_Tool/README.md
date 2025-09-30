@@ -4,11 +4,11 @@ This is the core purpose driving your journey, emphasizing efficiency, control, 
 
 # Side Quests
 **Prequel Quest: Tool Installation & Configuration**
-- Successfully install and configure the required browser extensions (Copyfish and Edge Translate) and the automation tool (AutoHotkey v2) on your system. This includes assigning the correct hotkeys to the extensions if necessary.
+_ Successfully install and configure the required browser extensions (Copyfish and Edge Translate) and the automation tool (AutoHotkey v2) on your system. This includes assigning the correct hotkeys to the extensions if necessary.
 
 * Side Quest 1: AHK Core Logic Construction
-Objective: Develop and debug the AutoHotkey v2 script
+_ Objective: Develop and debug the AutoHotkey v2 script
 * Side Quest 2: Protocol Integration & Testing
-Objective: Successfully integrate the two browser extensions
+_ Objective: Successfully integrate the two browser extensions
 * Side Quest 3: Semi-Automation Design Validation
-Objective: Design Validation
+_ Objective: Design Validation
