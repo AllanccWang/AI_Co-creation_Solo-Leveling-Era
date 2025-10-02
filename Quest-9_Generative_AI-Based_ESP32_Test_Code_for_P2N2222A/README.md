@@ -15,3 +15,6 @@ project_root/
 ```
 * *Phase 2: Code Generation:*
 Your next objective is to use these structured documents as context for a Generative AI model to synthesize the final Arduino C++ test code. Target is to use prompts generate the P2N2222A_switching_test.cpp program.
+
+* *Phase 3: Flash and Verify ESP32 Test Code*
+Your next objective is to transition from the digital realm (generated code) to the physical realm (hardware validation). Goal is to upload the generated program to the ESP32 and prove that the test program is effective by forcing both PASS and FAIL conditions, where failure condition includes “Force the "ON State" Test to Fail” and “Force the "OFF State" Test to Fail”.
