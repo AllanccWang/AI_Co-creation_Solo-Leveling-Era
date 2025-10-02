@@ -1,5 +1,6 @@
 # Goal
 Build a scalable platform to automatically generate an Arduino test program for the P2N2222A NPN transistor using Generative AI (Gen AI), and here we choose P2N2222A switching functional test as an example.
+if you are the ESP32 user you can also refer to this [_Link_](https://github.com/AllanccWang/electronic_projects/blob/5ac1c9ca14842814d4560cc3d93fe3264fc66a75/LAB14_Verify_P2N2222A_Amplifier-Transistor_Switching/README.md)
 
 # Quests
 * *Phase 1: Project Organization:*
