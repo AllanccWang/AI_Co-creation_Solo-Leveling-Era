@@ -1,5 +1,6 @@
 # Goal
 Primary mission is to simulate the motion of a four-bar linkage mechanism and visualize its trajectory using Python.
+<img align="justify" src="Four-Bar_Linkage_Simulation_(50,40,70,60).png" alt="Four-Bar_Linkage_IMG" style="width:60%">
 
 # Quests
 To achieve your goal, you must complete the following supporting tasks:
