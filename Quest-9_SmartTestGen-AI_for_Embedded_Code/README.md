@@ -1,6 +1,6 @@
 # Goal
 Build a scalable platform that uses Generative AI (Gen AI) to automatically generate Arduino test programs for various electronic components and circuits.
-ESP32 users can find a detailed reference implementation in this [_Link_](https://github.com/AllanccWang/electronic_projects/blob/5ac1c9ca14842814d4560cc3d93fe3264fc66a75/LAB14_Verify_P2N2222A_Amplifier-Transistor_Switching/README.md)
+ESP32 users can find a detailed reference implementation in this [_Link_](https://github.com/AllanccWang/electronic_projects/blob/1da002c4ae5d3efa10058bed5e707ccd407b1528/README.md)
 
 NOTICE: The project is currently in the optimization phase, with validation efforts actively underway to ensure performance and reliability.
 # Quests
