@@ -12,5 +12,5 @@ This is a practical guide that transforms your interactions with AI into a role-
 - [Quest-5_Modeling_Quantum_Phenomena_Using_Qiskit/](Quest-5_Modeling_Quantum_Phenomena_Using_Qiskit/)
 - [Quest-6_The_Bluetooth-receiver-CB10_Protocol_Decryption/](Quest-6_The_Bluetooth-receiver-CB10_Protocol_Decryption/)
 - [Quest-7_SnapTranslate_TextSnatch&Translate_Tool/](Quest-7_SnapTranslate_TextSnatch&Translate_Tool/)
-- [Quest_8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/](Quest_8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/)
+- [Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/](Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/)
 - [Quest-9_SmartTestGen-AI_for_Embedded_Code/](Quest-9_SmartTestGen-AI_for_Embedded_Code/)
