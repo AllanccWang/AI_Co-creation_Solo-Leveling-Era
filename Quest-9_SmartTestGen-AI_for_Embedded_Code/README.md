@@ -1,10 +1,11 @@
 # Goal
-Build a scalable platform to automatically generate an Arduino test program for the P2N2222A NPN transistor using Generative AI (Gen AI), and here we choose P2N2222A switching functional test as an example.
+Build a scalable platform that uses Generative AI (Gen AI) to automatically generate Arduino test programs for various electronic components and circuits.
 ESP32 users can find a detailed reference implementation in this [_Link_](https://github.com/AllanccWang/electronic_projects/blob/5ac1c9ca14842814d4560cc3d93fe3264fc66a75/LAB14_Verify_P2N2222A_Amplifier-Transistor_Switching/README.md)
 
+NOTICE: The project is currently in the optimization phase, with validation efforts actively underway to ensure performance and reliability.
 # Quests
 * *Phase 1: Project Organization:*
-First task is to organize the necessary project documentation into a structured format to serve as the input for the Gen AI model.
+The first task is to organize the necessary project documentation into a structured format to serve as input for the Gen AI model. You need to gather and structure the following files for the P2N2222A transistor (one-time setup):
 ```yaml
 project_root/
 ├─ circuit_interface(.md): Describes how the device is wired, including assignments and external components.
@@ -19,3 +20,6 @@ Your next objective is to use these structured documents as context for a Genera
 
 * *Phase 3: Flash and Verify ESP32 Test Code*
 Your next objective is to transition from the digital realm (generated code) to the physical realm (hardware validation). Goal is to upload the generated program to the ESP32 and prove that the test program is effective by forcing both PASS and FAIL conditions, where failure condition includes “Force the "ON State" Test to Fail” and “Force the "OFF State" Test to Fail”.
+
+* *Phase 4: Expand Verification to Additional Components and Circuits*
+I will verify additional components and circuits and post the results in the repository.
