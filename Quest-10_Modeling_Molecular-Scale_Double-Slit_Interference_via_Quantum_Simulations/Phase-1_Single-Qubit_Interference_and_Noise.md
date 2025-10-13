@@ -11,14 +11,17 @@ ates internal degrees of freedom or environmental entanglement, which can lead t
 # Results
 ## *depolarizing*
 depolarizing_error(p) function is to introduce random bit & phase noise into system
+
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_depolarizing_error.png" alt="Single-Qubit_Double-Slit_depolarizing_error_IMG" style="width:60%">
 
 ## *phase damping*
 phase_damping_error(p) function introduces loss of phase coherence (dephasing)
+
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_phase_damping_error.png" alt="Single-Qubit_Double-Slit_phase_damping_error_IMG" style="width:60%">
 
 ## *amplitude damping*
 amplitude_damping_error(p) is energy loss(p) function
+
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_amplitude_damping_error.png" alt="Single-Qubit_Double-Slit_amplitude_damping_error_IMG" style="width:60%">
 
 In the single-qubit double-slit circuit, phase damping does almost nothing visible because the phase is re-encoded into a population (measurement basis) at the end.
