@@ -14,3 +14,4 @@ This is a practical guide that transforms your interactions with AI into a role-
 - [Quest-7_SnapTranslate_TextSnatch&Translate_Tool/](Quest-7_SnapTranslate_TextSnatch&Translate_Tool/)
 - [Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/](Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/)
 - [Quest-9_SmartTestGen-AI_for_Embedded_Code/](Quest-9_SmartTestGen-AI_for_Embedded_Code/)
+- [Quest-10_Modeling_Molecular-Scale_Double-Slit_Interference_via_Quantum_Simulations/](Quest-10_Modeling_Molecular-Scale_Double-Slit_Interference_via_Quantum_Simulations/)
