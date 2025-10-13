@@ -10,7 +10,7 @@ The quantum circuit consists of:
 
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-qubit_double-slit_quantum_circuit.PNG" alt="Single-qubit_double-slit_quantum_circuit_IMG" style="width:60%">
 
-By sweeping the phase $ \phi $ from $ 0 $ to $ 2\pi $, we obtain sinusoidal interference fringes for the probabilities of measuring $ |0\rangle $ and $ |1\rangle $.  
+By sweeping the phase φ from 0 to 2π, we obtain sinusoidal interference fringes for the probabilities of measuring |0⟩ and |1⟩.  
 
 To study the effect of decoherence, we introduce different **noise channels**:
 - **Depolarizing noise** — random bit and phase flips.  
@@ -26,7 +26,7 @@ We then **quantify the impact on interference visibility**, i.e., the contrast b
 ## 🧪 Results
 
 ### 1. Depolarizing Noise
-`depolarizing_error(p)` introduces **random bit and phase errors**, reducing coherence and **lowering interference visibility** as $ p $ increases.
+`depolarizing_error(p)` introduces **random bit and phase errors**, reducing coherence and **lowering interference visibility** as p increases.
 
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_depolarizing_error.png" alt="Single-Qubit_Double-Slit_depolarizing_error_IMG" style="width:60%">
 
@@ -47,11 +47,11 @@ This is because:
 ---
 
 ### 3. Amplitude Damping
-`amplitude_damping_error(p)` represents **energy relaxation**, where excited states $ |1\rangle $ decay to $ |0\rangle $.
+`amplitude_damping_error(p)` represents **energy relaxation**, where excited states |1⟩ decay to |0⟩.
 
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_amplitude_damping_error.png" alt="Single-Qubit_Double-Slit_amplitude_damping_error_IMG" style="width:60%">
 
-Amplitude damping **distorts the fringe pattern** by biasing outcomes toward $ |0\rangle $, especially as $ p $ increases.
+Amplitude damping **distorts the fringe pattern** by biasing outcomes toward |0⟩, especially as p increases.
 
 ---
 
@@ -60,7 +60,7 @@ Amplitude damping **distorts the fringe pattern** by biasing outcomes toward $ |
 |--------------------------|--------------------------------------------------------------|------------|
 | **Depolarizing**         | Reduces overall coherence, lowers fringe contrast           | ↓ Moderate |
 | **Phase damping**        | Minimal effect for short circuits                           | ≈ Constant |
-| **Amplitude damping**    | Biases results toward $ |0\rangle $, distorts fringes       | ↓ Strong   |
+| **Amplitude damping**    | Biases results toward |0⟩, distorts fringes                  | ↓ Strong   |
 
 > 📝 *Key Insight*:  
 > Phase damping becomes significant only when the superposition is **maintained over a longer circuit depth** (e.g., idle times or multiple operations).  
