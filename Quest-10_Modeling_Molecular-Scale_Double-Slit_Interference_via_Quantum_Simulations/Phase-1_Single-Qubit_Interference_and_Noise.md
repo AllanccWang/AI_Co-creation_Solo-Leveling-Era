@@ -8,7 +8,7 @@ By sweeping the phase shift, we obtain sinusoidal probability fringes for measur
 We then study the effect of different noise channels — depolarizing, phase damping, and amplitude damping — and observe their impact on interference visibility, i.e., the contrast between maximum and minimum fringe intensities.
 ates internal degrees of freedom or environmental entanglement, which can lead to decoherence and loss of interference visibility.
 
-#Results
+# Results
 ## *depolarizing*
 depolarizing_error(p) function is to introduce random bit & phase noise into system
 <img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-Qubit_Double-Slit_depolarizing_error.png" alt="Single-Qubit_Double-Slit_depolarizing_error_IMG" style="width:60%">
