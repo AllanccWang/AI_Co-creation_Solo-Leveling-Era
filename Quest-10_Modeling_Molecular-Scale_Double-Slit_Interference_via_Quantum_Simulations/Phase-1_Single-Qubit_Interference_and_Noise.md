@@ -3,7 +3,7 @@ The circuit for Single-Qubit Interference consists of:
 * A Hadamard gate to create a superposition (analogous to splitting through two slits).
 * A phase shift gate to mimic relative path difference between the slits.
 * A second Hadamard gate to recombine the paths and produce interference at the measurement stage.
-<img align="justify" src="Quest-10_Modeling_Molecular-Scale_Double-Slit_Interference_via_Quantum_Simulations\Phase-1_Single-Qubit_Interference_and_Noise\Single-qubit_double-slit_quantum_circuit.PNG" alt="Single-qubit_double-slit_quantum_circuit_IMG" style="width:60%">
+<img align="justify" src="./Phase-1_Single-Qubit_Interference_and_Noise/Single-qubit_double-slit_quantum_circuit.PNG" alt="Single-qubit_double-slit_quantum_circuit_IMG" style="width:60%">
 By sweeping the phase shift, we obtain sinusoidal probability fringes for measurement outcomes |0> and |1>.
 We then study the effect of different noise channels — depolarizing, phase damping, and amplitude damping — and observe their impact on interference visibility, i.e., the contrast between maximum and minimum fringe intensities.
 ates internal degrees of freedom or environmental entanglement, which can lead to decoherence and loss of interference visibility.
