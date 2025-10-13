@@ -12,13 +12,10 @@ The coupling simulates internal degrees of freedom or environmental entanglement
 
 # Quests
 *Phase 1 — Single-Qubit Interference and Noise:*
-In Phase 1, we simulate a basic quantum interference experiment using a single qubit.
 The circuit consists of:
-
 * A Hadamard gate to create a superposition (analogous to splitting through two slits).
 * A phase shift gate to mimic relative path difference between the slits.
 * A second Hadamard gate to recombine the paths and produce interference at the measurement stage.
-
 By sweeping the phase shift, we obtain sinusoidal probability fringes for measurement outcomes |0> and |1>.
 We then study the effect of different noise channels — depolarizing, phase damping, and amplitude damping — and observe their impact on interference visibility, i.e., the contrast between maximum and minimum fringe intensities.
 
