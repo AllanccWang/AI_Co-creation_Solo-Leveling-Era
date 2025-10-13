@@ -4,10 +4,10 @@ The double-slit experiment is one of the most fundamental demonstrations of quan
 In this project, we use quantum circuits to simulate a double-slit interference experiment using a single qubit and then extend the system to multiple coupled qubits to mimic interference behavior of larger, more complex molecular systems.
 
 Phase 1 — Single-Qubit Interference and Noise: 
-In this phase, we simulate a basic quantum interference experiment using a single qubit.
+we simulate a basic quantum interference experiment using a single qubit.
 
 Phase 2 — Multi-Qubit Coupling and Interference Suppression: 
-In Phase 2, we extend the model to multiple coupled qubits, representing larger composite quantum systems such as molecules.
+we extend the model to multiple coupled qubits, representing larger composite quantum systems such as molecules.
 The coupling simulates internal degrees of freedom or environmental entanglement, which can lead to decoherence and loss of interference visibility.
 
 # Quests
