@@ -65,10 +65,3 @@ Amplitude damping **distorts the fringe pattern** by biasing outcomes toward |0�
 > 📝 *Key Insight*:  
 > Phase damping becomes significant only when the superposition is **maintained over a longer circuit depth** (e.g., idle times or multiple operations).  
 > For a minimal double-slit circuit, **depolarizing and amplitude damping** dominate the interference degradation.
-
----
-
-## 🧭 Next Steps
-- Introduce **delays or additional gates** to study **time-dependent dephasing**.  
-- Extend to **Phase 2** with multi-qubit coupling to simulate molecular-scale systems and environment-induced decoherence.  
-- Analyze **interference visibility quantitatively** as a function of noise strength.
