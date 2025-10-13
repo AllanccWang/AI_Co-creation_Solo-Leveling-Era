@@ -11,7 +11,8 @@ we extend the model to multiple coupled qubits, representing larger composite qu
 The coupling simulates internal degrees of freedom or environmental entanglement, which can lead to decoherence and loss of interference visibility.
 
 # Quests
-*Phase 1 — Single-Qubit Interference and Noise:*
+*Phase 1 — Single-Qubit Interference and Noise*
+
 The circuit consists of:
 * A Hadamard gate to create a superposition (analogous to splitting through two slits).
 * A phase shift gate to mimic relative path difference between the slits.
@@ -19,7 +20,8 @@ The circuit consists of:
 By sweeping the phase shift, we obtain sinusoidal probability fringes for measurement outcomes |0> and |1>.
 We then study the effect of different noise channels — depolarizing, phase damping, and amplitude damping — and observe their impact on interference visibility, i.e., the contrast between maximum and minimum fringe intensities.
 
-*Phase 2 — Multi-Qubit Coupling and Interference Suppression:*
+*Phase 2 — Multi-Qubit Coupling and Interference Suppression*
+
 In Phase 2, we extend the model to multiple coupled qubits, representing larger composite quantum systems such as molecules.
 The coupling simulates internal degrees of freedom or environmental entanglement, which can lead to decoherence and loss of interference visibility.
 
