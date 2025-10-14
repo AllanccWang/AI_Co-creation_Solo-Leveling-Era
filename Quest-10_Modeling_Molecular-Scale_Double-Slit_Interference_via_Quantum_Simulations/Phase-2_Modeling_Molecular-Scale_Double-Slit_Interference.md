@@ -4,6 +4,7 @@
 Extend the single-qubit double-slit model (Phase 1) into a **multi-qubit “molecular” interference model**, capturing how internal degrees of freedom degrade interference visibility.
 
 📜 The simulation code is available [_here_](./Phase-2_Modeling_Molecular-Scale_Double-Slit_Interference/Multi-Qubit_Coupled_as_Molecule_Through_Phase_Barrier.py).
+
 ---
 
 ## 🧩 Conceptual Model
@@ -31,7 +32,8 @@ Extend the single-qubit double-slit model (Phase 1) into a **multi-qubit “mole
 4. **Hadamard (or QFT)** on path qubit → maps phase information into measurement basis.  
 5. **Measurement:** all qubits measured, but analysis keeps only the path qubit distribution.
 
-Below demonstrates the circuit with 4-qubits.
+Below demonstrates the circuit with 4 qubits:
+
 <img align="justify" src="./Phase-2_Modeling_Molecular-Scale_Double-Slit_Interference/Modeling_Molecular-Scale_Double-Slit_Interference_Circuit.png" alt="Modeling_Molecular-Scale_Double-Slit_Interference_Circuit_IMG" style="width:60%">
 
 ---
@@ -53,7 +55,8 @@ Below demonstrates the circuit with 4-qubits.
 - **Dominant factor:** number of internal qubits, not small external noise.  
 - **High noise (p = 1):** interference collapses completely.
 
-Below is the simulation results
+Below are the simulation results:
+
 <img align="justify" src="./Phase-2_Modeling_Molecular-Scale_Double-Slit_Interference/Modeling_Molecular-Scale_Double-Slit_Interference-Noise_Strength.png" alt="Modeling_Molecular-Scale_Double-Slit_Interference-Noise_Strength_IMG" style="width:60%">
 
 ---
