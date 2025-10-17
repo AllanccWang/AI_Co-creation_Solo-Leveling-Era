@@ -4,7 +4,9 @@ This is a practical guide that transforms your interactions with AI into a role-
 [**AI Co-creation : Solo Leveling Era**](https://www.notion.so/AI-Co-creation-Solo-Leveling-Era-24c0094e437380b2b508edfb304236ce?source=copy_link)
 
 # Quest Index
+## 🎮 Quest Index (Bonus First, Sorted by Number)
 - [Bonus_Quest-01_Quantum-Accelerated_AI_Model_Training/](Bonus_Quest-01_Quantum-Accelerated_AI_Model_Training/)
+- [Bonus_Quest-02_Schrodingers_Anemometer/](Bonus_Quest-02_Schrodingers_Anemometer/)
 - [Quest-1_python_script_to_create_notion_project_structure/](Quest-1_python_script_to_create_notion_project_structure/)
 - [Quest-2_AI_External_Memory_System/](Quest-2_AI_External_Memory_System/)
 - [Quest-3_Analyzing_and_Optimizing_Ideal_vs._Real_Rabi-Oscillations_with_Qiskit/](Quest-3_Analyzing_and_Optimizing_Ideal_vs._Real_Rabi-Oscillations_with_Qiskit/)
