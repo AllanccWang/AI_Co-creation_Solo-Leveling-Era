@@ -19,6 +19,6 @@ The primary mission is to simulate a probability-based mechanical model where a 
 
 # Result
 | probabilities(Pa,Pb) | density distribution map |
-| (0.1, 0.9) | density distribution map |
-| (0.5, 0.5) | density distribution map |
-| (0.9, 0.1) | density distribution map |
+| (0.1, 0.9) | <img align="justify" src="./Schrodinger_Anemometer_PA-09_PB-01_result.png" alt="Schrodinger_Anemometer_PA-09_PB-01_result" style="width:60%"> |
+| (0.5, 0.5) | <img align="justify" src="./Schrodinger_Anemometer_PA-05_PB-05_result.png" alt="Schrodinger_Anemometer_PA-05_PB-05_result" style="width:60%"> |
+| (0.9, 0.1) | <img align="justify" src="./Schrodinger_Anemometer_PA-01_PB-09_result.png" alt="Schrodinger_Anemometer_PA-01_PB-09_result" style="width:60%"> |
