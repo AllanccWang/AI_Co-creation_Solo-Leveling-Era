@@ -17,3 +17,4 @@ This is a practical guide that transforms your interactions with AI into a role-
 - [Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/](Quest-8_Kinematic_Modeling_of_Planar_Four_Bar_Mechanisms/)
 - [Quest-9_SmartTestGen-AI_for_Embedded_Code/](Quest-9_SmartTestGen-AI_for_Embedded_Code/)
 - [Quest-10_Modeling_Molecular-Scale_Double-Slit_Interference_via_Quantum_Simulations/](Quest-10_Modeling_Molecular-Scale_Double-Slit_Interference_via_Quantum_Simulations/)
+- [Quest-11_Smart_Sorting_System_with_HX711_and_APDS-9960_Modules/](Quest-11_Smart_Sorting_System_with_HX711_and_APDS-9960_Modules/)
