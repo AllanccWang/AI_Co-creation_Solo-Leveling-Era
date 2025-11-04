@@ -83,7 +83,7 @@ Reason: This is not an error, but it indicates that your current pulse parameter
 
 ---
 
-## II. Graph Interpretation
+## Graph Interpretation
 
 The plot demonstrates the acute sensitivity of quantum gate performance to timing imperfections in the control pulses.
 
