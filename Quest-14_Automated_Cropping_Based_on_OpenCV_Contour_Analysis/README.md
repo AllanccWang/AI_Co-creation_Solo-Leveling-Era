@@ -10,7 +10,7 @@ The core challenge was to achieve **content-aware cropping** under the hardware 
 
 ### 📝 Final Workflow
 
-After multiple iterations and tests, the final output was the `Robust_Crop_Processor.py` script. Its core execution steps are as follows:
+Its core execution steps are as follows:
 
 1. **Image Loading & Normalization:** Load the image and resize its width to 1600px while maintaining aspect ratio.  
 2. **Preprocessing (Denoising):** Convert the image to grayscale and apply a **very large Gaussian blur kernel** (e.g., `(15, 15)`). This step intentionally **sacrifices detail** to **eliminate complex background textures** (e.g., wooden floors, fabric mats).  
@@ -25,7 +25,7 @@ After multiple iterations and tests, the final output was the `Robust_Crop_Proce
 
 This project successfully demonstrated the limits of traditional computer vision (OpenCV) under CPU-only environments.
 
-- **Achievement:** We developed an automated script (`Robust_Crop_Processor.py`) capable of handling **moderately complex backgrounds**. Experiments showed that **extreme denoising** combined with **morphological repair** is essential.  
+- **Achievement:** We developed an automated script ([_`Robust_Crop_Processor.py`_](./Robust_Crop_Processor.py)) capable of handling **moderately complex backgrounds**. Experiments showed that **extreme denoising** combined with **morphological repair** is essential.  
 - **Core Trade-off:** Traditional CV faces an unsolvable dilemma:  
   - **Insufficient denoising (Advanced version):** Complex background textures (e.g., fabric mats) are misidentified as edges, causing contour chaos.  
   - **Excessive denoising (Robust version):** To eliminate texture, extreme blurring also **removes weak object edges**.  
