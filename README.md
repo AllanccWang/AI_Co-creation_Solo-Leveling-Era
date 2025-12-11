@@ -22,3 +22,4 @@
 - [Quest-14_Automated_Cropping_Based_on_OpenCV_Contour_Analysis/](Quest-14_Automated_Cropping_Based_on_OpenCV_Contour_Analysis/)
 - [Quest-15_Execute_the_Calibration_of_a_Transmon_Pauli-X_Gate/](Quest-15_Execute_the_Calibration_of_a_Transmon_Pauli-X_Gate/)
 - [Quest-16_Machine-Learning-Driven_Spin-Qubit_Pulse_Calibration_with_Qiskit_and_QuTiP/](Quest-16_Machine-Learning-Driven_Spin-Qubit_Pulse_Calibration_with_Qiskit_and_QuTiP/)
+- [Quest-17_Bayesian_Optimization_for_Quantum_Gate_Calibration/](Quest-17_Bayesian_Optimization_for_Quantum_Gate_Calibration/)
