@@ -75,7 +75,7 @@ The workflow consists of three independent optimization tasks, each minimizing $
 
 Below is a detailed comparison between this project and your original “**Machine Learning-driven Spin Qubit Pulse Calibration**” project:
 
-| Feature | Original Project (README.md) | **New Project (Bayesian Optimization for High-Fidelity...)** |
+| Feature | Original Project | **New Project (Bayesian Optimization for High-Fidelity...)** |
 | :--- | :--- | :--- |
 | **Core optimization goal** | Optimize a **single** pulse shape parameter: **Gaussian pulse width ($\sigma$)**. | Optimize **three independent** physical control parameters: **pulse duration ($t$), amplitude ($\Omega$), detuning time ($t_{detune}$)**. |
 | **Pulse physical model** | **Gaussian pulse:** involves **time-dependent Hamiltonian $H(t)$**. | **Square pulse:** uses **time-invariant Hamiltonian $H$**. |
