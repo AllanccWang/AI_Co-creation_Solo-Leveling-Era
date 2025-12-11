@@ -71,7 +71,7 @@ The workflow consists of three independent optimization tasks, each minimizing $
 
 -----
 
-## 🆚 Project Comparison: New Project vs. Original Project (README.md)
+## 🆚 Project Comparison: New Project vs. [_Original Project_](https://github.com/AllanccWang/AI_Co-creation_Solo-Leveling-Era/blob/ec02c55da6f2ff3f0e9f3d3a6aba02d293c16df6/Quest-16_Machine-Learning-Driven_Spin-Qubit_Pulse_Calibration_with_Qiskit_and_QuTiP/README.md)
 
 Below is a detailed comparison between this project and your original “**Machine Learning-driven Spin Qubit Pulse Calibration**” project:
 
