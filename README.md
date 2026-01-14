@@ -25,3 +25,4 @@
 - [Quest-17_Bayesian_Optimization_for_Quantum_Gate_Calibration/](Quest-17_Bayesian_Optimization_for_Quantum_Gate_Calibration/)
 - [Quest-18_Quantum_Diamond_Magnetometry_Simulation_using_QuTiP_and_Qiskit/](Quest-18_Quantum_Diamond_Magnetometry_Simulation_using_QuTiP_and_Qiskit/)
 - [Quest-19_Get_to_Know_Cold_Atom_Physics_by_Simulation/](Quest-19_Get_to_Know_Cold_Atom_Physics_by_Simulation/)
+- [Quest-20_Quantum-Scale_Stochastic_Resonance-QSR_Simulator/](Quest-20_Quantum-Scale_Stochastic_Resonance-QSR_Simulator/)
